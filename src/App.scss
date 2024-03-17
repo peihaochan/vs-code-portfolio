@@ -1,0 +1,18 @@
+.vscode-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  flex: 0 0 100px;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.editor {
+  flex: 1;
+  background-color: #2d2d30;
+  color: #ffffff;
+  padding: 20px;
+}
